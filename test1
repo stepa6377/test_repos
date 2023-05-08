@@ -1,1 +1,8 @@
-
+def func():
+  count = 0
+  while True:
+    print(5)
+    count += 1
+    if count == 24:
+      print('Программа окончена')
+      break
