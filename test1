@@ -7,3 +7,5 @@ def func():
       print('STOP')
       print('Программа окончена')
       break
+
+func()
