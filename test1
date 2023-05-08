@@ -3,6 +3,7 @@ def func():
   while True:
     print(5)
     count += 1
-    if count == 24:
+    if count == 100:
+      print('STOP')
       print('Программа окончена')
       break
