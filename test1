@@ -1,12 +1,8 @@
 def func():
   count = 0
-  count = 2
   while True:
     print(5)
     count += 1
-    count_2 -= 2
     if count == 100:
-      print('STOP')
       print('Программа окончена')
-      print(count_2)
       break
